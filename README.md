@@ -1,2 +1,2 @@
-# 320FinalProject
-cmsc 320
+# Spotify Song Predictor 
+By: Esha Singhai, Eshita Mehrotra, Sheena Agrawal
